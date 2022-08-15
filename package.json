@@ -1,0 +1,20 @@
+{
+  "name": "gatsby-starter-minimal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.20.0",
+    "gatsby-remark-graphviz": "4.20.0",
+    "gatsby-source-filesystem": "4.20.0",
+    "gatsby-transformer-remark": "5.20.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
